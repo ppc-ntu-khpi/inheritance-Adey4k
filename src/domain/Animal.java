@@ -1,28 +1,34 @@
 package domain;
 
 public class Animal {
-
+    
     protected String name;
-
+    
+    protected int age;
+    
     protected int weight;
-
-    public Animal() {
-        name="generic animal";
-        weight=25;
+    
+    public Animal()     {
+        name = "Elephant";
+        age = 3;
+        weight = 1000;  
     }
-
+    
     public void eat() {
-        System.out.println("Animal eating...");
+        System.out.println("Animal is eating");
+    } 
+    
+    public void breathe() {
+        System.out.println("Animal is breathing");
     }
-
-    public void speak() {
-        System.out.println("Animal speaking...");
+        
+    public void sleep() {
+        System.out.println("Animal is sleeping");
     }
 
     @Override
     public String toString() {
-        return "My animal:" + "\nName:\t" + name + "\nWeight:\t" + weight+" kg";
+        return "Animal: " + "\nName=" + name + "\nAge=" + age + "\nWeight=" + weight + "\n";
     }
-
- 
-}
+    
+    }
