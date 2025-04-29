@@ -3,7 +3,7 @@
 
 Для прикладу я змоделював **слона**
 
-<img src="https://github.com/ppc-ntu-khpi/Inheritance-Starter/blob/master/images/elephant.png" width="100%"/>
+<img src="https://github.com/ppc-ntu-khpi/inheritance-Adey4k/blob/master/images/elephant.png" width="100%"/>
 <img src="https://github.com/ppc-ntu-khpi/Inheritance-Starter/blob/master/images/Main.png" width="100%"/>
 
 ## В рамках практичної роботи виконано наступне:
@@ -18,8 +18,8 @@
 
 ## Скрін допрацювання коду(4 пункт) виконання практичної:
 
-<img src="https://github.com/ppc-ntu-khpi/Inheritance-Starter/blob/master/images/4.png" width="100%"/>
+<img src="https://github.com/ppc-ntu-khpi/Inheritance-Starter/blob/master/images/4.jpg" width="100%"/>
 
 ## Скрін результатів програми:
 
-<img src="https://github.com/ppc-ntu-khpi/Inheritance-Starter/blob/master/images/result.png" width="100%"/>
+<img src="https://github.com/ppc-ntu-khpi/Inheritance-Starter/blob/master/images/result.jpg" width="100%"/>
