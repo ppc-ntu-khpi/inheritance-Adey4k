@@ -3,7 +3,7 @@
 
 Для прикладу я змоделював **слона**
 
-<img src="https://github.com/ppc-ntu-khpi/Inheritance-Starter/blob/master/images/elephant.jpg" width="100%"/>
+<img src="https://github.com/ppc-ntu-khpi/Inheritance-Starter/blob/master/images/elephant.png" width="100%"/>
 <img src="https://github.com/ppc-ntu-khpi/Inheritance-Starter/blob/master/images/Main.png" width="100%"/>
 
 ## В рамках практичної роботи виконано наступне:
@@ -18,8 +18,8 @@
 
 ## Скрін допрацювання коду(4 пункт) виконання практичної:
 
+<img src="https://github.com/ppc-ntu-khpi/Inheritance-Starter/blob/master/images/4.png" width="100%"/>
 
+## Скрін результатів програми:
 
-Не забувайте, що ви можете обговорювати завдання в девелоперському мессенджері **Gitter** - у відповідній [чат-кімнаті](https://gitter.im/PPC-SE-2020/OOP?utm_source=share-link&utm_medium=link&utm_campaign=share-link).
-
-[![Gitter](https://badges.gitter.im/PPC-SE-2020/OOP.svg)](https://gitter.im/PPC-SE-2020/OOP?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+<img src="https://github.com/ppc-ntu-khpi/Inheritance-Starter/blob/master/images/result.png" width="100%"/>
