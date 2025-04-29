@@ -4,7 +4,7 @@
 Для прикладу я змоделював **слона**
 
 <img src="https://github.com/ppc-ntu-khpi/inheritance-Adey4k/blob/master/images/elephant.png" width="100%"/>
-<img src="https://github.com/ppc-ntu-khpi/inheritance-Adey4k/blob/master/images/Main.png" width="100%"/>
+<img src="https://github.com/ppc-ntu-khpi/inheritance-Adey4k/blob/master/images/Main.jpg" width="100%"/>
 
 ## В рамках практичної роботи виконано наступне:
 1. подумайте, які риси та поведінка притаманні всім без винятку тваринам 
